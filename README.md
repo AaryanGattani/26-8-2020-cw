@@ -1,1 +1,2 @@
-# 26-8-2020-cw
+# staticSquare
+A static square made using Matter.js physics engine
